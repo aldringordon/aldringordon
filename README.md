@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldringordon
-- 🎓 BSc Computer Science
 - 💻 Associate Software Engineer @ Bankwest
+- 🎓 BSc Computer Science
 - 🇦🇺 Based in Perth, Western Australia
 - 🚀 aldringordon.com
 
