@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aldringordon
-- 💻 Associate Software Engineer @ Bankwest
+- 💻 Software Engineer @ Bankwest
 - 🎓 BSc Computer Science
 - 🇦🇺 Based in Perth, Western Australia
 - 🚀 aldringordon.com
