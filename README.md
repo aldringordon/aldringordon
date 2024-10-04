@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @aldringordon
-- 💻 Software Engineer @ Bankwest
+- 💻 Software Engineer
 - 🎓 BSc Computer Science
-- 🇦🇺 Based in Perth, Western Australia
-- 🚀 aldringordon.com
+- 🇦🇺 Australia
 
 <!---
 aldringordon/aldringordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
